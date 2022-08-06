@@ -2,14 +2,30 @@
 # BIOINFORMÁTICA
 ### DATOS PERSONALES
 Jennyffer Elizalde
+
 Biotecnología
+
 Loja
+
 Mestizo
+
 Español
+
 ### DETALLES DEL EQUIPO
+
 Windows 10 64 bits
+
 Procesador
+
 RAM 8 GB
+
 ### Versión de python
+
 Python 3.9.7 
+
 Anaconda Navigator 2.2.0
+
+IPython 7.29.0
+
+### Data utilizada
+Para realizar el diagrama de python se utilizó archivos txt de la búsqueda académica de acuerdo a países y autores, por otro lado para realizar el árbol filogenético se utilizó archivos SEQ, GB, FASTA, DND y ALN. 
